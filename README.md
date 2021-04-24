@@ -1,11 +1,11 @@
 <h1>Hi I am Andressa👋</h1>
 
 
-### A Junior Full Stack Developer 
+### A Junior Full Stack Developer from 🇧🇷 living in 🇳🇱
 
-- 👀 I’m currently a student at <a href="https://codaisseur.com/nl/">Codaisseur</a> (Feb 2021 - Apr 2021) 
+- 💻 I’m currently a student at <a href="https://codaisseur.com/nl/">Codaisseur</a> (Feb 2021 - Apr 2021) 
 - 📍 Amsterdam, Netherlands
-- 📫 andressamachado98@gmail.com
+- 📫 How to reach me: andressamachado98@gmail.com
 -  or visit my [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/andressa--machado/)
 
 ### Languages and Tools i've worked with:
