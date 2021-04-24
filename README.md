@@ -1,4 +1,4 @@
-<h1>Hi I am Andressa👋</h1>
+<h1>Hi, I am Andressa👋</h1>
 
 
 ### A Junior Full Stack Developer from 🇧🇷 living in 🇳🇱
