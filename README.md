@@ -3,10 +3,9 @@
 
 ### A Junior Full Stack Developer from 🇧🇷, living in 🇳🇱
 
-- 💻 I’m currently a student at <a href="https://codaisseur.com/nl/">Codaisseur</a> (Feb 2021 - Apr 2021) 
-- 📍 Amsterdam, Netherlands
-- 📫 How to reach me: andressamachado98@gmail.com
--  or visit my [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/andressa--machado/)
+- 💻 QA and software engineer at BusinessForensics
+- 📍 Den Haag, Netherlands
+- [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/andressa--machado/)
 
 ### Languages and Tools i've worked with:
 <p>
