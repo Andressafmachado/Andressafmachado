@@ -1,7 +1,7 @@
 <h1>Hi, I am Andressa👋</h1>
 
 
-### A Junior Full Stack Developer from 🇧🇷, living in 🇳🇱
+### A Full Stack Developer from 🇧🇷, living in 🇳🇱
 
 - 💻 QA and software engineer at BusinessForensics
 - 📍 Den Haag, Netherlands
